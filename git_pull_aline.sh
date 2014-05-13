@@ -4,7 +4,7 @@
 git checkout master;
 
 # Atualiza ela
-git pull;
+git pull charles master;
 
 # Entra na branch da aline
 git checkout master_aline;

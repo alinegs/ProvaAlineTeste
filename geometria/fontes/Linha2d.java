@@ -9,5 +9,6 @@ package geometria.fontes;
  * @author Alunos
  */
 public class Linha2d {
+
     
 }
